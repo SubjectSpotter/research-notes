@@ -99,4 +99,6 @@ application
 (identical prompt to Google Gemini first pass)
 [First Result](claude_ner_1.html)
 
+# GliNER
+[10 Experiments with GliNER](https://docs.google.com/document/d/1pvs_5dymDEDBsvwsMza_21RHF6Szfsn_UunISwuiTNE/edit?usp=sharing)
 
